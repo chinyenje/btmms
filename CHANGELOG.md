@@ -1,7 +1,7 @@
 **29-May-2021**
 
 _Removed rights on Manager to reset user password
-Newlt created user was unable to log in  
+_Newlt created user was unable to log in  
 Rearranged Query ticket  by date in asc
 Customer Care should not have options
 Fixed inability to delete  role
